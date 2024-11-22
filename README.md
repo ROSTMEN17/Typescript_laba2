@@ -1,1 +1,2 @@
-# Typescript_laba2
+# Typescript_laba2 
+Березовський Ростислав
